@@ -1,0 +1,9 @@
+.option{
+  display: flex;
+  align-items: center;
+}
+
+.input-select{
+  background: var(--color-nav-background);
+  color: var(--color-nav-texts);
+}
